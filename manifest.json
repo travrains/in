@@ -1,0 +1,30 @@
+{
+<<<<<<< Updated upstream
+  "name": "Careover",
+  "short_name": "Careover",
+  "description": "An Identity of healthy India.",
+  "start_url": "https://berrybone.github.io/home",
+=======
+  "name": "Travrains",
+  "short_name": "Travrains",
+  "description": "Where Journeys Begin and Memories Take Flight",
+  "start_url": "https://travrains.github.io/in",
+>>>>>>> Stashed changes
+  "display": "standalone",
+  "background_color": "#fcfafc",
+  "theme_color": "#900000",
+  "icons": [
+    {
+      "src": "img/logo.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "splash_screen": {
+    "src": "img/test.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "purpose": "maskable"
+  }
+}
